@@ -4,6 +4,6 @@ TOMATO FOOD ORDERING APPLICATION” is a Android-based application. The main obj
 CONTENTS
 
 <p align="center">
-  <img width="400" height="600" src="images/logo.jpeg">
+  <img width="400" height="600" src="images/logo.jpg">
   <h1>LOGO</hi>
 </p>
